@@ -1,0 +1,9 @@
+[submodule "eth-brownie-bgp"]
+	path = eth-brownie-bgp
+	url = git@github.com:gregcusack/eth-brownie-bgp.git
+[submodule "eth-hardhat-dev"]
+	path = eth-hardhat-dev
+	url = git@github.com:gregcusack/eth-hardhat-dev.git
+[submodule "avax-blockchain"]
+	path = avax-blockchain
+	url = git@github.com:gregcusack/avax-blockchain.git
